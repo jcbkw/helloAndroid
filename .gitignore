@@ -4,4 +4,3 @@ build/cordova/*
 plugins/
 node_modules/
 .vscode
-www/

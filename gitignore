@@ -1,0 +1,7 @@
+*.apk
+!build/cordova/config.xml
+build/cordova/*
+plugins/
+node_modules/
+.vscode
+www/
